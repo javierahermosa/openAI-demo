@@ -12,14 +12,18 @@ following input and output (draft, to be discussed):
 
 Input 1: A prompt with instructions on what features to extract from the article (e.g. topic, 
 summary, sentiment, etc.)
+
 Input 2: Article Text 
 
 Output: A JSON with all the features described in the prompt
 Ideal format of the output: for each key in the JSON, print key and value
 
 Example:
+
 Input 1: Given the following article, output a JSON file containing the topic, summary, and sentiment.
+
 Input 2: Capitalism is very good for the rich and very bad for the poor. Blah Blah
+
 
 Output:
 Topic: Economics
