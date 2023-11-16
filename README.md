@@ -26,6 +26,6 @@ Topic: Economics
 Summary: This article is about capitalism.. 
 Sentiment: Neutral
 
-3. 
-4. 
+2.
+3.
 
