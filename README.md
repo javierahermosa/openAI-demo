@@ -10,12 +10,12 @@ following input and output (draft, to be discussed):
 
 1. Demo 1: Text Classification
 
-Input 1: A prompt with instructions on what features to extract from the article (e.g. topic, 
+Input 1: [string] A prompt with instructions on what features to extract from the article (e.g. topic, 
 summary, sentiment, etc.)
 
-Input 2: Article Text 
+Input 2: [string] Article Text 
 
-Output: A JSON with all the features described in the prompt
+Output: [json] A JSON with all the features described in the prompt
 Ideal format of the output: for each key in the JSON, print key and value
 
 Example:
