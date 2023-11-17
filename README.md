@@ -61,12 +61,14 @@ Input: [TBD] A video (or video path?)
 Output: [string] text describing the video and the possibility of reproducing the MP3 audio.
 
 ### Demo 5: Having a conversation with a document
-In this demo we will test the concept of memory and retrieval, by chatting with a long document.
+In this demo we will test the concept of memory and retrieval, by 'chatting' with a long document. To do 
+this, we need to upload a document and ask questions about the article. 
 
-Input 1: A pdf file such an astronomy paper, or EV paper.
+Input 1: A pdf file such an astronomy paper, or electric vehicle (EV) paper.
 Input 2: [string] A prompt with some questions about the paper
 
 Output 1: [string] A summary of the paper.
+
 Output 2: [string] An answer to the question
 ... the conversation will continue until the user ends it.
 
